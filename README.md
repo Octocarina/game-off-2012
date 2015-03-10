@@ -1,4 +1,4 @@
-# Push and Fork, having fun with time
+# Push And Fork, having fun with time
 
 ![](https://raw.github.com/Octocarina/game-off-2012/master/img/splash.png) 
 
