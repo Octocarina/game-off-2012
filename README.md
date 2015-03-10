@@ -1,4 +1,4 @@
-# Push and Fork, having fun with time
+# Push And Fork, having fun with time
 
 This is a puzzle game in which you carry a fork, push blocks, and go back in time.
 ### Click [here](http://gelisam.com/octocarina) to play!
